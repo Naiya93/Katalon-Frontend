@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>body_You need to enable JavaScript to run t_54590e</name>
+   <tag></tag>
+   <elementGuidId>53d2dfe9-56a2-4ece-95ed-c38414303e53</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>body</value>
+      <webElementGuid>bc4bc4a3-ced5-4f50-9f02-e844ff2a0121</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>You need to enable JavaScript to run this app.New BusinessSwitching accounts...​Test ModeLogging out...  Back to Payouts  Profile Settings  ProfileChange PasswordNotificationsLogin SessionsAssociated Accounts   Business Settings  Account DetailsPayout &amp; SchedulingBranding   Branding   Customise the branding on external pages and emails that your customers will see.  Upload IconUpload LogoUse logo/iconIcon​Brand Color:#Fonts:System font (default)​Checkout &amp; Payment linkEmail Recieptbuy.tryspeed.com New BusinessPay New Business141.60 BTC Rebook Casual Shoes10.12 BTCQty: 3Rebook Casual Shoes23.12 BTCQty: 3Rebook Casual Shoes44.12 BTCQty: 3View More Powered bySpeedTerms  ·  Privacy   Scan and Pay  LN AddressmjnruPRPK847uEyVbCv2oDfT1UK2Jifbgg  id(&quot;header-account-select-menu&quot;)/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiMenu-paper MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation8 MuiPopover-paper css-177ic5c&quot;]/ul[@class=&quot;MuiList-root MuiList-padding MuiMenu-list css-r8u8y9&quot;]New BusinessNew Account</value>
+      <webElementGuid>0f02cca0-7509-4a21-add4-cde204a52a9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]</value>
+      <webElementGuid>9e3d679c-9892-4303-a5e6-46616d30ecc7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body</value>
+      <webElementGuid>ba358608-dfe8-4541-9e0c-4797b8d039df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//body[(text() = 'You need to enable JavaScript to run this app.New BusinessSwitching accounts...​Test ModeLogging out...  Back to Payouts  Profile Settings  ProfileChange PasswordNotificationsLogin SessionsAssociated Accounts   Business Settings  Account DetailsPayout &amp; SchedulingBranding   Branding   Customise the branding on external pages and emails that your customers will see.  Upload IconUpload LogoUse logo/iconIcon​Brand Color:#Fonts:System font (default)​Checkout &amp; Payment linkEmail Recieptbuy.tryspeed.com New BusinessPay New Business141.60 BTC Rebook Casual Shoes10.12 BTCQty: 3Rebook Casual Shoes23.12 BTCQty: 3Rebook Casual Shoes44.12 BTCQty: 3View More Powered bySpeedTerms  ·  Privacy   Scan and Pay  LN AddressmjnruPRPK847uEyVbCv2oDfT1UK2Jifbgg  id(&quot;header-account-select-menu&quot;)/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiMenu-paper MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation8 MuiPopover-paper css-177ic5c&quot;]/ul[@class=&quot;MuiList-root MuiList-padding MuiMenu-list css-r8u8y9&quot;]New BusinessNew Account' or . = 'You need to enable JavaScript to run this app.New BusinessSwitching accounts...​Test ModeLogging out...  Back to Payouts  Profile Settings  ProfileChange PasswordNotificationsLogin SessionsAssociated Accounts   Business Settings  Account DetailsPayout &amp; SchedulingBranding   Branding   Customise the branding on external pages and emails that your customers will see.  Upload IconUpload LogoUse logo/iconIcon​Brand Color:#Fonts:System font (default)​Checkout &amp; Payment linkEmail Recieptbuy.tryspeed.com New BusinessPay New Business141.60 BTC Rebook Casual Shoes10.12 BTCQty: 3Rebook Casual Shoes23.12 BTCQty: 3Rebook Casual Shoes44.12 BTCQty: 3View More Powered bySpeedTerms  ·  Privacy   Scan and Pay  LN AddressmjnruPRPK847uEyVbCv2oDfT1UK2Jifbgg  id(&quot;header-account-select-menu&quot;)/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiMenu-paper MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation8 MuiPopover-paper css-177ic5c&quot;]/ul[@class=&quot;MuiList-root MuiList-padding MuiMenu-list css-r8u8y9&quot;]New BusinessNew Account')]</value>
+      <webElementGuid>9f870412-41ae-49a8-8ff3-92a1f77de797</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

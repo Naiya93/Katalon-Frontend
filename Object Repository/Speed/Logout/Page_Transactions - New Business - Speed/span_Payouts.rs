@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Payouts</name>
+   <tag></tag>
+   <elementGuidId>7b8ffbc2-5ae3-44e3-80b6-748c13097f0e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/nav/div/div/div/div[6]/ul/li/div/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>49b90291-0761-4e04-b667-de853155d330</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-k7nfv5</value>
+      <webElementGuid>8cade579-7a39-40ad-b63c-b5b37163c4ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Payouts</value>
+      <webElementGuid>91e75156-53c0-45dd-b785-977bf2c977c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app-root MuiBox-root css-0&quot;]/div[@class=&quot;app-root-container MuiBox-root css-15ze9i3&quot;]/nav[@class=&quot;MuiBox-root css-1hskriy&quot;]/div[@class=&quot;MuiDrawer-root MuiDrawer-docked sidebar-wrapper css-aw21fi&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation0 MuiDrawer-paper MuiDrawer-paperAnchorLeft MuiDrawer-paperAnchorDockedLeft css-1l8j5k8&quot;]/div[@class=&quot;MuiBox-root css-1v1qs4&quot;]/div[@class=&quot;MuiCardContent-root main-menu-item css-1qw96cp&quot;]/ul[@class=&quot;MuiList-root MuiList-padding css-1ontqvh&quot;]/li[@class=&quot;MuiListItem-root MuiListItem-gutters css-1tpp0wj&quot;]/div[@class=&quot;MuiListItemButton-root MuiListItemButton-gutters MuiButtonBase-root css-e0yuwi&quot;]/div[@class=&quot;MuiListItemText-root css-1tsvksn&quot;]/span[@class=&quot;MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-k7nfv5&quot;]</value>
+      <webElementGuid>f1959091-96d3-4bcf-9438-f71707f0ce6d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/nav/div/div/div/div[6]/ul/li/div/div[2]/span</value>
+      <webElementGuid>a7a3edbe-94a9-4b8a-a1df-99250857dd2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transactions'])[1]/following::span[2]</value>
+      <webElementGuid>08cf328d-ef7a-4a8b-bc09-cfba16c80180</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payments'])[1]/following::span[4]</value>
+      <webElementGuid>2c101fb8-a131-4f31-a74b-bab7acc03aec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/preceding::span[4]</value>
+      <webElementGuid>03b3d8c1-3d1a-474f-ae17-2a5c2b55efe0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Data'])[1]/preceding::span[6]</value>
+      <webElementGuid>6f9fb40f-8f15-45fd-a746-6438dbb52017</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Payouts']/parent::*</value>
+      <webElementGuid>22e5d151-aebb-43e5-bdc3-f4e2d2ce9373</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/ul/li/div/div[2]/span</value>
+      <webElementGuid>9b0fdb21-8f41-4820-91a0-0d622fedb03a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Payouts' or . = 'Payouts')]</value>
+      <webElementGuid>b64cbe65-48d8-4a70-816e-fdce7034ca31</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

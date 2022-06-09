@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Logging out_MuiAvatar-img css-1hy9t21</name>
+   <tag></tag>
+   <elementGuidId>22b1b8a0-8d63-4178-9e9d-1ed4e6134033</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/header/div/div[3]/div[3]/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.MuiAvatar-img.css-1hy9t21</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>963c07bf-99a9-4f7d-b709-ed519d7fc5de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Naiya Patel</value>
+      <webElementGuid>f6cc5b2e-b27c-4ae7-86f6-e492155f716e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://decentpay-images.s3.amazonaws.com/app-icons/default-user.svg</value>
+      <webElementGuid>2400c17e-26e2-4be2-95a6-ed21d73e995f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiAvatar-img css-1hy9t21</value>
+      <webElementGuid>a0c38440-050c-4394-a6a9-298aefc7b2eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app-root MuiBox-root css-0&quot;]/div[@class=&quot;header user-in undefined mui-fixed MuiBox-root css-0&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthXl css-1ekb41w&quot;]/header[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionStatic css-1x7skt0&quot;]/div[@class=&quot;MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular css-191lty2&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;header-user-profile MuiBox-root css-4g6ai3&quot;]/div[@class=&quot;MuiAvatar-root MuiAvatar-circular small css-151w86n&quot;]/img[@class=&quot;MuiAvatar-img css-1hy9t21&quot;]</value>
+      <webElementGuid>c510cc55-efaa-49f4-9be8-6cce341c3aa9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/header/div/div[3]/div[3]/div/img</value>
+      <webElementGuid>63d4e7c3-d20e-4c7e-aef5-b8d9b39cbeb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Naiya Patel']</value>
+      <webElementGuid>45bd777e-4c38-4593-aea6-127620bfd2cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div/img</value>
+      <webElementGuid>1b5fcae9-64c5-4b16-90ba-a9feeb561ac5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Naiya Patel' and @src = 'https://decentpay-images.s3.amazonaws.com/app-icons/default-user.svg']</value>
+      <webElementGuid>575edd09-8b96-4a85-9d53-a57795cb305f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
